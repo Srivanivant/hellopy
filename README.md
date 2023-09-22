@@ -4,3 +4,4 @@ name:v sreevani
 project:version control text
 college:anmk
 course:mca
+afficated:juntu
